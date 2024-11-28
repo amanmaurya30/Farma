@@ -3,16 +3,21 @@
     padding:0px;
 }
 #Aman{
+    width:90%;
+    height:50px;
     display: flex;
     justify-content: space-between;
+    margin-left: 150px;
+    padding:10px;
+    align-items: center;
+
 }
 #Aman nav ul{
     display: flex;
     gap: 20px;
     list-style: none;
-}
-#Aman img{
-    width: 50px;
+    align-items: center;
+    background-color:bisque;
 }
 #Aman nav ul a{
     text-decoration: none;
