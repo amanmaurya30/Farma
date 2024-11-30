@@ -18,8 +18,18 @@
     list-style: none;
     align-items: center;
     background-color:bisque;
+    font-family: "Bokor", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        color: red;
+        font-size: 30px;     
 }
 #Aman nav ul a{
     text-decoration: none;
    
+}
+#Aman button{
+    margin-right: 50px;
+    font-size: 30px;
+    border-top-left-radius:20px;
 }
