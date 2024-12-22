@@ -390,3 +390,6 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+.{ 
+    background-color: #0452fa;
+}
